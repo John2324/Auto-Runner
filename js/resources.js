@@ -10,14 +10,14 @@ game.resources = [
         src: "data/map/level01.tmx"
     },
     {
-        name: "walkingBarbarian",
+        name: "dead_archer",
         type: "json",
-        src: "data/img/sprite/walkingBarbarian.json"
+        src: "data/img/sprite/dead_archer.json"
     },
     {
-        name: "walkingBarbarian",
+        name: "dead_archer",
         type: "image",
-        src: "data/img/sprite/walkingBarbarian.png"
+        src: "data/img/sprite/dead_archer.png"
     },
     {
         name: "background1",

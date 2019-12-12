@@ -23,7 +23,7 @@ var game = {
         me.state.set(me.state.PLAY, new game.PlayScreen());
 
         // Entities
-        me.pool.register("walkingBarbarian", game.PlayerEntity);
+        me.pool.register("dead_archer", game.PlayerEntity);
 
         // Set a global fading transition for the screen
         me.state.transition("fade", "#000", 250);

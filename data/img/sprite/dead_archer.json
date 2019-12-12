@@ -1,0 +1,300 @@
+{"frames": [
+
+{
+	"filename": "0_Archer_Falling Down_000",
+	"frame": {"x":0,"y":0,"w":76,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":16,"w":76,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Falling Down_001",
+	"frame": {"x":77,"y":0,"w":77,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":16,"w":77,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Falling Down_002",
+	"frame": {"x":154,"y":0,"w":76,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":15,"w":76,"h":89},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Falling Down_003",
+	"frame": {"x":231,"y":0,"w":76,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":15,"w":76,"h":89},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Falling Down_004",
+	"frame": {"x":308,"y":0,"w":76,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":15,"w":76,"h":89},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Falling Down_005",
+	"frame": {"x":385,"y":0,"w":77,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":16,"w":77,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_000",
+	"frame": {"x":462,"y":0,"w":75,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":22,"w":75,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_001",
+	"frame": {"x":539,"y":0,"w":77,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":21,"w":77,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_002",
+	"frame": {"x":616,"y":0,"w":76,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":21,"w":76,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_003",
+	"frame": {"x":693,"y":0,"w":75,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":21,"w":75,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_004",
+	"frame": {"x":770,"y":0,"w":73,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":22,"w":73,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_005",
+	"frame": {"x":847,"y":0,"w":68,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":23,"w":68,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_006",
+	"frame": {"x":924,"y":0,"w":69,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":24,"w":69,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_007",
+	"frame": {"x":1001,"y":0,"w":67,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":24,"w":67,"h":84},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_008",
+	"frame": {"x":1078,"y":0,"w":68,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":23,"w":68,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_009",
+	"frame": {"x":1155,"y":0,"w":71,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":23,"w":71,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_010",
+	"frame": {"x":1232,"y":0,"w":73,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":23,"w":73,"h":85},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Hurt_011",
+	"frame": {"x":1309,"y":0,"w":74,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":22,"w":74,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Jump Start_000",
+	"frame": {"x":0,"y":89,"w":75,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":22,"w":75,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Jump Start_001",
+	"frame": {"x":77,"y":89,"w":75,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":21,"w":75,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Jump Start_002",
+	"frame": {"x":154,"y":89,"w":76,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":20,"w":76,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Jump Start_003",
+	"frame": {"x":231,"y":89,"w":75,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":19,"w":75,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Jump Start_004",
+	"frame": {"x":308,"y":89,"w":75,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":18,"w":75,"h":88},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Jump Start_005",
+	"frame": {"x":385,"y":89,"w":74,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":17,"w":74,"h":88},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_000",
+	"frame": {"x":462,"y":89,"w":76,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":21,"w":76,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_001",
+	"frame": {"x":539,"y":89,"w":76,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":20,"w":76,"h":88},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_002",
+	"frame": {"x":616,"y":89,"w":74,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":20,"w":74,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_003",
+	"frame": {"x":693,"y":89,"w":72,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":20,"w":72,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_004",
+	"frame": {"x":770,"y":89,"w":71,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":21,"w":71,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_005",
+	"frame": {"x":847,"y":89,"w":73,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":21,"w":73,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_006",
+	"frame": {"x":924,"y":89,"w":75,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":21,"w":75,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_007",
+	"frame": {"x":1001,"y":89,"w":76,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":20,"w":76,"h":88},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_008",
+	"frame": {"x":1078,"y":89,"w":75,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":20,"w":75,"h":87},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_009",
+	"frame": {"x":1155,"y":89,"w":72,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":20,"w":72,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_010",
+	"frame": {"x":1232,"y":89,"w":71,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":21,"w":71,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "0_Archer_Running_011",
+	"frame": {"x":1309,"y":89,"w":74,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":21,"w":74,"h":87},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dead_archer.png",
+	"format": "RGBA8888",
+	"size": {"w":1386,"h":178},
+	"scale": "0.142",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdedbc72798cb22055dba6a6a724b9b2:78290dbbe9bc79c96d7df381ad9aaf54:41f468cae8fcf626359308233460bb81$"
+}
+}
