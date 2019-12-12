@@ -5,6 +5,11 @@ game.resources = [
         src: "data/img/map/level01Tiles.png"
     },
     {
+        name: "stonespike",
+        type: "image",
+        src: "data/img/map/stonespike.png"
+    },
+    {
         name: "level01",
         type: "tmx",
         src: "data/map/level01.tmx"
