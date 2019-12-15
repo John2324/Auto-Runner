@@ -15,6 +15,11 @@ game.resources = [
         src: "data/map/level01.tmx"
     },
     {
+        name: "level02",
+        type: "tmx",
+        src: "data/map/level02.tmx"
+    },
+    {
         name: "dead_archer",
         type: "json",
         src: "data/img/sprite/dead_archer.json"
@@ -48,5 +53,10 @@ game.resources = [
         name: "ground",
         type: "image",
         src: "data/img/ground.png"
+    },
+    {
+        name: "lossBackground",
+        type: "image",
+        src: "data/img/map/lossBackground.png"
     }
 ];
