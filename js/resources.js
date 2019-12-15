@@ -43,5 +43,10 @@ game.resources = [
         name: "frontmountain",
         type: "image",
         src: "data/img/frontmountain.png"
+    },
+    {
+        name: "ground",
+        type: "image",
+        src: "data/img/ground.png"
     }
 ];
